@@ -1,7 +1,7 @@
 package com.reactlibrary;
 
 import android.content.Context;
-import android.support.v4.view.accessibility.AccessibilityEventCompat;
+import androidx.core.view.accessibility.AccessibilityEventCompat;
 import android.view.accessibility.AccessibilityEvent;
 import android.view.accessibility.AccessibilityManager;
 

@@ -1,7 +1,7 @@
 
 # react-native-accessibility
 
-## Support AndroidX
+### Support AndroidX 
 
 ## Getting started
 
@@ -11,7 +11,7 @@
 
 `$ react-native link react-native-accessibility`
 
-### Manual installation
+### Manual installation - If your app does not support autolinking:
 
 #### iOS
 
