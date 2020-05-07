@@ -1,6 +1,8 @@
 
 # react-native-accessibility
 
+## Support AndroidX
+
 ## Getting started
 
 `$ npm install react-native-accessibility --save`
@@ -10,7 +12,6 @@
 `$ react-native link react-native-accessibility`
 
 ### Manual installation
-
 
 #### iOS
 
