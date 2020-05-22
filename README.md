@@ -1,7 +1,8 @@
+[![npm version](https://badge.fury.io/js/rn-accessibility.svg)](//npmjs.com/package/rn-accessibility)
 
 # react-native-accessibility
 
-### Support AndroidX 
+* Support AndroidX 
 
 ## Getting started
 
